@@ -1,5 +1,7 @@
-first = input("Input your First name")
-middle = input("Input your middle name")
-last = input("Input your last name")
+F = input("Input your First name")
+M = input("Input your middle name")
+L = input("Input your last name")
 
-print(first, middle, last)
+print(F, M, L)
+
+
